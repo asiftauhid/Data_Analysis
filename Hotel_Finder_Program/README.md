@@ -5,7 +5,7 @@ Use terminal or similar command line interface to run the makefile which is writ
    
 1) insert <Hotel Details 
 2) find <HotelName,CityName>   
-3) findAll <CityName>  
+3) findAll < CityName >  
 4) findAll <CityName,Stars>  
 5) delete <HotelName,CityName>  
 6) dump <file>  
