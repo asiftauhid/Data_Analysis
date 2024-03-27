@@ -1,7 +1,8 @@
 __Movie Correlation Project__  
+   
 **Project Overview**  
 This project delves into a dataset comprising 7,669 movies, focusing on various attributes such as company names, release years, budgets, ratings, votes, and gross earnings. The primary objective is to uncover which attributes exhibit the most significant correlation with the movies' gross earnings and to determine the factors that most influence a movie's financial success.  
-  
+   
 **Key Objectives**  
 To analyze the dataset to identify correlations between movie attributes and gross earnings.  
 To investigate which factors contribute most to a movie's box office success.  
@@ -27,10 +28,10 @@ Runtime
   
 **Tools and Technologies Used**  
 Jupyter Notebook: For conducting the analysis and visualization.   
-Python Libraries: pandas for data manipulation and analysis.  
-                  matplotlib and seaborn for data visualization.
-                  numpy for numerical calculations.
-Statistical Methods: Correlation analysis using Pearson's coefficient.
+Python Libraries: pandas for data manipulation and analysis.    
+                  matplotlib and seaborn for data visualization.  
+                  numpy for numerical calculations.  
+Statistical Methods: Correlation analysis using Pearson's coefficient.  
 
 **Analysis Process**  
 Data Cleaning: Processing the dataset to handle missing values, duplicates, and incorrect data types.  
