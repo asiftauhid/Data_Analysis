@@ -1,7 +1,7 @@
-This repository encompassess some of my previous projects that deals with data.
+This repository contains a selection of my past projects focused on data handling and analysis.
 
 Here are the projects and a brief description about them:
-1) Movie Correlation Project
+1) Movie Correlation Project \n
    link to the project: https://github.com/asiftauhid/Portfolio/blob/main/Movie_Correlation_Project.ipynb
-3) Hotel Finding Project
+3) Hotel Finding Project \n
    Link to the project: https://github.com/asiftauhid/Portfolio/tree/main/Hotel_Finder_Program
