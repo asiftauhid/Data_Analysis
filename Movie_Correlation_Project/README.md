@@ -8,7 +8,7 @@ To investigate which factors contribute most to a movie's box office success.
 To utilize statistical analysis and visualization techniques to present findings.
   
 **Dataset**  
-The dataset includes 7,669 movies with attributes including:
+The dataset includes 7,669 movies with attributes including:  
 Name  
 Rating  
 Genre  
