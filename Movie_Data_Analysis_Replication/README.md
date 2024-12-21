@@ -8,8 +8,6 @@ This project analyzes a dataset of movie ratings to explore statistical question
 - Xiaokan Tian
 - Haojie Cai
 
----
-
 ## Research Questions and Key Findings
 
 1. **Are movies that are more popular rated higher than less popular movies?**
@@ -52,14 +50,10 @@ This project analyzes a dataset of movie ratings to explore statistical question
     - **Methodology**: Used Mann-Whitney U and Kruskal-Wallis H tests.
     - **Findings**: 87.5% of franchises analyzed exhibit inconsistent quality.
 
----
-
 ## Dataset
 
 - **Source**: `movieReplicationSet.csv`
 - **Size**: Contains movie ratings and metadata, including demographic and preference information.
-
----
 
 ## How to Run
 
@@ -72,18 +66,13 @@ This project analyzes a dataset of movie ratings to explore statistical question
    ```bash
    python movieDataAnalysisReplication.py
    ```
-
----
-
+   
 ## Technologies Used
 - Python (Pandas, NumPy, SciPy, Matplotlib)
 - Statistical Tests: Welch's t-test, Mann-Whitney U test, Kolmogorov-Smirnov test, Kruskal-Wallis H test.
-
----
 
 ## Results and Discussions
 
 The results demonstrate diverse patterns in movie ratings based on popularity, gender, social watching preferences, and demographic factors. Key findings highlight significant and non-significant trends, suggesting areas for further research and potential improvement in personalized movie recommendations.
 
----
 
